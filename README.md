@@ -1,3 +1,3 @@
 # TicTaeToe_cpp
-This contains the code of Tic Tae Toe game using C++
-This is the game where user is not gonna play with the another user but,guess what, yeah he will play against the computer so it's Human VS Computer.
+This contains the code of Tic Tae Toe game using C++ and Mini-Max algorithm.
+Here, user is not going to play with the another user,he will play against the computer so it's Human VS Computer.
