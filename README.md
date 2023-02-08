@@ -10,3 +10,5 @@ Every board state has a value associated with it. In a given state if the maximi
 
 # Images of the game 
 ![](https://github.com/Akashsingh1118/TicTaeToe_cpp/blob/main/images/image1.jpg)
+![](https://github.com/Akashsingh1118/TicTaeToe_cpp/blob/main/images/image2.jpg)
+![](https://github.com/Akashsingh1118/TicTaeToe_cpp/blob/main/images/image3.jpg)
