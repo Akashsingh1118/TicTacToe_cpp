@@ -9,4 +9,4 @@ In Minimax the two players are called maximizer and minimizer. The maximizer tri
 Every board state has a value associated with it. In a given state if the maximizer has upper hand then, the score of the board will tend to be some positive value. If the minimizer has the upper hand in that board state then it will tend to be some negative value. The values of the board are calculated by some heuristics which are unique for every type of game.
 
 # Images of the game 
-![](https://github.com/Akashsingh1118/TicTaeToe_cpp/blob/main/images/demo1.jpg)
+![](https://github.com/Akashsingh1118/TicTaeToe_cpp/blob/main/images/image1.jpg)
